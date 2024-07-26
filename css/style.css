@@ -1,0 +1,27 @@
+* {
+  background-color: brown;
+  font-family: Georgia, "Times New Roman", sans-serif;
+}
+
+#main-title {
+  color: burlywood;
+  background-color: black;
+  width: fit-content;
+  padding: 10px;
+  border: solid;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.recipe-list {
+  background-color: cornflowerblue;
+  width: fit-content;
+  padding: 5px;
+  border: solid black;
+}
+
+.recipe-list li,
+.recipe-list li a {
+  background-color: cornflowerblue;
+  font-size: 20px;
+}
